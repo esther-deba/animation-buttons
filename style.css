@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+    gap: 25px;
+    background-color: rgb(48, 48, 48);
+}
+button{
+    padding: 20px 70px;
+    cursor: pointer;
+    font-size: 20px;
+    color: gray;
+    background-color: transparent;
+    border-color: gray;
+    border: solid;
+    border-width: 1px;
+}
